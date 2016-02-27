@@ -1,0 +1,8 @@
+name: DataProducts-ShinyApp
+account: viascully
+server: shinyapps.io
+bundleId: 382246
+url: https://viascully.shinyapps.io/DataProducts-ShinyApp/
+when: 1456615594.86739
+asMultiple: FALSE
+asStatic: FALSE
